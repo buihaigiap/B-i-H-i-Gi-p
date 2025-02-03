@@ -39,12 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical" alt="GitHub Streak" height="170">
 </p>
 
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihaigiap&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
-</p>
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
