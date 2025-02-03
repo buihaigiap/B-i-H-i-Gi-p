@@ -25,13 +25,6 @@
   </p>
 </details>
 
-<details>
-  <summary><h2>📚 Currently Learning</h2></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,graphql,docker" />
-  </p>
-</details>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
