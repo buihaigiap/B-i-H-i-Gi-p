@@ -23,11 +23,13 @@
 
 <h2 >📊 GitHub Stats</h2>
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <h1 align="center"></h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical" alt="GitHub Streak" height="170">
-</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical" 
+       alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical" 
+       alt="GitHub Streak" height="170">
+</div>
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
