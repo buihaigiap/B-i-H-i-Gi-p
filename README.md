@@ -30,9 +30,8 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buihaigiap&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buihaigiap&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 
