@@ -54,11 +54,7 @@
   </a>
 </p>
 
-<h2 align="center">💼 Open for collaborations and interesting projects!</h2>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buihaigiap&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 ---
 
