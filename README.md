@@ -23,7 +23,7 @@
 
 <h2 >📊 GitHub Stats</h2>
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical" 
        alt="GitHub Stats" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical" 
