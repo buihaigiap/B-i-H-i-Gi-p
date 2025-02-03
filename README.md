@@ -1,8 +1,8 @@
-<div align="center">
+<div >
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bùi+Hải+Giáp's+Profile!;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=380&height=45">
 </div>
 
-<p align="center">
+<p >
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,14 +16,14 @@
 
 <details open>
   <summary><h2>🚀 Skills</h2></summary>
-  <p align="center">
+  <p >
     <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,java,nodejs,express,mongodb,git" />
   </p>
 </details>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 >📊 GitHub Stats</h2>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical" alt="GitHub Streak" height="170">
 </p>
