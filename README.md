@@ -54,13 +54,6 @@
   </a>
 </p>
 
-<details>
-  <summary><h2>🎵 Now Playing</h2></summary>
-  <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" alt="Spotify Now Playing">
-  </p>
-</details>
-
 <h2 align="center">💼 Open for collaborations and interesting projects!</h2>
 
 <div align="center">
