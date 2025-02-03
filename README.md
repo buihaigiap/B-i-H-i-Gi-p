@@ -1,5 +1,5 @@
-<div >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bùi+Hải+Giáp's+Profile!;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=380&height=45">
+<div  align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bùi+Hải+Giáp+Profile!;Open+Source+Enthusiast;Always+Learning&center=true&width=380&height=45">
 </div>
 
 
