@@ -42,7 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buihaigiap&theme=react-dark" alt="Contribution Graph">
 </p>
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2>🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:your.email@example.com">
