@@ -42,7 +42,12 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihaigiap&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihaigiap&layout=compact&langs_count=8&theme=radical&hide=java,python,c%2B%2B&custom_title=Top%20%Languages" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buihaigiap&theme=radical" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buihaigiap&theme=radical" alt="Most Commit Language">
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
