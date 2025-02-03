@@ -6,7 +6,7 @@
 
 <details open>
   <summary><h2>🚀 Skills</h2></summary>
-  <p >
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,java,nodejs,express,mongodb,git" />
   </p>
 </details>
