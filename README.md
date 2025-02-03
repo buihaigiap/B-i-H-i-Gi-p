@@ -6,22 +6,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buihgiap0101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=buihaigiap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buihgiap0101&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihgiap0101&layout=compact&langs_count=10&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihaigiap&layout=compact&langs_count=10&theme=radical" alt="Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buihgiap0101&theme=onedark" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=buihaigiap&theme=onedark" alt="GitHub Trophies">
 </p>
 
 ## 🚀 Skills
